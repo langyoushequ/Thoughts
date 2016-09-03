@@ -1,2 +1,2 @@
 # Thoughts
-to memorize thoughts
+to understand thoughts
